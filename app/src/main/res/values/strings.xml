@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">agenda</string>
+    <string name="add">Adicionar</string>
+    <string name="activity_formulario_hint_nome">Digite seu nome.</string>
+    <string name="activity_formulario_hint_email">Digite seu email.</string>
+    <string name="activity_formulario_hint_telefone">Digite seu telefone.</string>
+    <string name="activity_formulario_aluno_botao_salvar">Salvar</string>
+</resources>
